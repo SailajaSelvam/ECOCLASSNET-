@@ -23,14 +23,14 @@ plastic, metal, glass, and organic waste.
 - **Training:** Adam optimizer, categorical crossentropy, batch size 32, 30 epochs
 - **Evaluation Metrics:** Accuracy, Precision, Recall, F1-Score
 
-## Usage
+## Steps :
 1. Clone the repo:
    git clone https://github.com/SailajaSelvam/ECOCLASSNET.git
 
 2. Install dependencies:
    pip install -r requirements.txt
 
-3.Run the training script
+3. Run the training script
 
 ## Sample output :
 <img width="530" height="199" alt="image" src="https://github.com/user-attachments/assets/f68052ff-2d10-495a-97a6-f03454a55313" />
